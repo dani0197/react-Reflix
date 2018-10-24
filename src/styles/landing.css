@@ -1,0 +1,49 @@
+#landing-header{
+    color: whitesmoke;
+    text-align: center;
+}
+#reflix-logo{
+    color: #4aadc6;
+    font-family: fantasy;
+    float: right;
+    text-decoration: none;
+    font-size: 2em;
+}
+.users-container > a{
+    text-decoration: none;
+    color: black;
+}
+.users-container{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(27, 26, 26);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.user{
+    width: 250px;
+    height: 150px;
+    font-size: 3em;
+    font-family: fantasy;
+}
+#Mona{
+    background-color: #3498db;
+
+}
+
+#Jasmyne{
+    background-color: #e74c3c;
+}
+
+#Aura{
+    background-color: #2ecc71;
+}
+
+#Tina{
+    background-color: #f1c40f;
+}
